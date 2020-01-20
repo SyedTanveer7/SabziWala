@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Vendor</string>
+    <string name="title_home">Home</string>
+    <string name="title_orders">Orders</string>
+    <string name="title_reports">Reports</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_update_profile">Update Profile</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_order_invoice">Order Invoice</string>
+    <string name="google_map_key">
+AIzaSyBc-H2RiDFf4xj3i6qW7aKL1Dkx_ifZxWQ
+</string>
+
+    <string-array name="Options">
+        <item>Pending</item>
+        <item>In Progress</item>
+        <item>Delivered</item>
+    </string-array>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">LjkAcuOp77oeCS1hJFmLhSQUb1DYAo5Wqi8S9EW4</string>
+    <string name="back4app_client_key">vjDVMH1ZFT3rcQjtFRbgAp7bGpozd8kSKsUSKJH9</string>
+
+
+
+</resources>

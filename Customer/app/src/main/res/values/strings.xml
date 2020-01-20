@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Customer</string>
+    <string name="title_home">Home</string>
+    <string name="sabzi_wala">Sabzi Wala</string>
+    <string name="my_account">My Account</string>
+    <string name="cart">Cart</string>
+    <string name="cart_summary">Cart Summary</string>
+    <string name="recent_orders">Recent Orders</string>
+    <string name="edit_Profile">Edit profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">piH1Smp4MCOpoBjm4KXIquwKimHEUiY7dDjMvCc1</string>
+    <string name="back4app_client_key">4VamlHFswDjHiGDThTPPXV73VobbMMHr6uiGJfck</string>
+
+
+</resources>
